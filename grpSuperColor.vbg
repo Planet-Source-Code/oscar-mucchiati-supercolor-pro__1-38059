@@ -1,0 +1,3 @@
+VBGROUP 5.0
+StartupProject=prj SuperColor\prjSuperColor.vbp
+Project=DLL color\dllColors.vbp
